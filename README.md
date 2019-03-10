@@ -2,6 +2,14 @@
 
 A decentralized web application built on a solidity smart contract that facilitates the process of lending items to neighbours within a community.
 
+## Run Locally 
+
+```
+cd Frontend
+npm install
+npm start
+```
+
 ## Built With
 * [solidity](https://getbootstrap.com/docs/3.3/) 
 * [React](https://ngrok.com/) 

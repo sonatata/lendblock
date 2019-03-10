@@ -1,6 +1,6 @@
 # LendBlock :city_sunset:
 
-A decenterlized web application built on a solidity smart contract that facilitates the process of lending items to neighbours within a community.
+A decentralized web application built on a solidity smart contract that facilitates the process of lending items to neighbours within a community.
 
 ## Built With
 * [solidity](https://getbootstrap.com/docs/3.3/) 

@@ -18,3 +18,9 @@ npm start
 
 * **Sonata Katt** -  [sonatata](https://github.com/sonatata)
 * **Lisa Guo** - [lisajguo](https://github.com/lisajguo)
+
+## References & Resources
+
+* Rentable contract by [pabloruiz55](https://github.com/pabloruiz55/Rentable)
+* BlockGeeks Tutorials
+* react-sidenav [example](https://www.npmjs.com/package/react-sidenav)
